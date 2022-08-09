@@ -17,7 +17,8 @@ html {
  */
 
 body {
-  margin-top: 20px;
+  margin: 0 auto;
+  width: 70%;
 }
 
 /* HTML5 display definitions
@@ -183,6 +184,9 @@ sub {
 
 img {
   border: 0;
+  border-radius: 100%;
+  float: left;
+  padding: 30px;
 }
 
 /**
